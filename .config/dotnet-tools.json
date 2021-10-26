@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "isRoot": true,
+  "tools": {
+    "fake-cli": {
+      "version": "1.0.0-2",
+      "commands": [
+        "fake"
+      ]
+    }
+  }
+}
